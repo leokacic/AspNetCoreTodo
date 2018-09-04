@@ -15,19 +15,19 @@ namespace AspNetCoreTodo.Controllers
 
     public TodoController(ITodoItemService todoItemService)
     {
-         _todoItemService = todoItemService;
+        _todoItemService = todoItemService;
     }
 
     public async Task<IActionResult> Index()
-{
-    var items = await _todoItemService.GetIncompleteItemsAsync();
+    {
+        var items = await _todoItemService.GetIncompleteItemsAsync();
 
-    var model = new TodoViewModel()
+        var model = new TodoViewModel()
     {
         Items = items
     };
 
     return View(model);
-}
+    }
 }
 }
