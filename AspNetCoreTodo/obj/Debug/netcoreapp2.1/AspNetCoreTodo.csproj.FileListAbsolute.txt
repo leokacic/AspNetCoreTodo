@@ -35,3 +35,4 @@ C:\Users\PC\Documents\AspNetCoreTodo\AspNetCoreTodo\obj\Debug\netcoreapp2.1\AspN
 C:\Users\PC\Documents\AspNetCoreTodo\AspNetCoreTodo\obj\Debug\netcoreapp2.1\AspNetCoreTodo.pdb
 C:\Users\PC\Documents\AspNetCoreTodo\AspNetCoreTodo\obj\Debug\netcoreapp2.1\AspNetCoreTodo.csproj.CopyComplete
 C:\Users\PC\Documents\AspNetCoreTodo\AspNetCoreTodo\obj\Debug\netcoreapp2.1\Razor\Views\Todo\Index.g.cshtml.cs
+C:\Users\PC\Documents\AspNetCoreTodo\AspNetCoreTodo\obj\Debug\netcoreapp2.1\Razor\Views\Todo\AddItemPartial.g.cshtml.cs
