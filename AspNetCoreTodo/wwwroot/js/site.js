@@ -2,6 +2,7 @@
 // for details on configuring this project to bundle and minify static web assets.
 
 // Write your JavaScript code.
+
 $(document).ready(function() {
 
     // Wire up all of the checkboxes to run markCompleted()
